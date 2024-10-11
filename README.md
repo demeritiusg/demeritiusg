@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 <!--
 ## 📂 Notable Projects:-->
 Check out some of my key projects:
-- [Project Name 1](Link to Repo): AWS Data Pipeline using Terraform and Spark
+- [Project Name 1]([Link to Repo](https://github.com/demeritiusg/terraform-data-pipeline): AWS Data Pipeline using Terraform and Spark
 - [Project Name 2](Link to Repo): Flask web app interacting with Quickbooks API
 <!-- [Project Name 3](Link to Repo): Brief description of the project and the technologies used. -->
 
