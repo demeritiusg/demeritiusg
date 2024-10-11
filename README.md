@@ -18,11 +18,11 @@ Here are some ideas to get you started: -->
 - Frameworks: Flask
 - Tools: GitHub, GitLab, Docker, Terraform, Apache Airflow, Jira, Postman, Slack, Sublime Text, Visual Studio Code
 <!--
-## 📂 Notable Projects:
+## 📂 Notable Projects:-->
 Check out some of my key projects:
-- [Project Name 1](Link to Repo): Brief description of the project and the technologies used.
-- [Project Name 2](Link to Repo): Brief description of the project and the technologies used.
-- [Project Name 3](Link to Repo): Brief description of the project and the technologies used. -->
+- [Project Name 1](Link to Repo): AWS Data Pipeline using Terraform and Spark
+- [Project Name 2](Link to Repo): Flask web app interacting with Quickbooks API
+<!-- [Project Name 3](Link to Repo): Brief description of the project and the technologies used. -->
 
 
 Feel free to explore my repositories and connect with me for freelance work!
