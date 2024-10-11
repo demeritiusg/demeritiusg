@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
   
 ## 🔨 Technologies & Tools:
 - Programming Languages: Python
-- Frameworks: [list the frameworks you specialize in]
+- Frameworks: Flask
 - Tools: GitHub, GitLab, Docker, Terraform, 
 <!--
 ## 📂 Notable Projects:
