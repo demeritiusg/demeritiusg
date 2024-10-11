@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 ## 🔨 Technologies & Tools:
 - Programming Languages: Python
 - Frameworks: Flask
-- Tools: GitHub, GitLab, Docker, Terraform, 
+- Tools: GitHub, GitLab, Docker, Terraform, Apache Airflow, Jira, Postman, Slack, Sublime Text, Visual Studio Code
 <!--
 ## 📂 Notable Projects:
 Check out some of my key projects:
