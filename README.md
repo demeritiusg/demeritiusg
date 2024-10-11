@@ -7,7 +7,7 @@ I'm a freelance Data Specialist with a passion for data management, workflow aut
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on data pipeline archicture using Kafka
+- 🔭 I’m currently working on data pipeline archicture using Terraform
 - 🌱 I’m learning AWS, Azure, Cyber Security, and manual drafting.
 - 💬 Ask me about data pipelines, Apache Airflow, Snowflake, and AWS.
 - 📫 How to reach me: demetrius.griffin.work@gmail.com.
