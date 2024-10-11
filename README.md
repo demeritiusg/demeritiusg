@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on automating workflow using Apache Airflow.
 - 🌱 I’m learning AWS, Azure, Cyber Security, and manual drafting.
-- 💬 Ask me about data pipelines and Apache Airflow.
+- 💬 Ask me about data pipelines, Apache Airflow, Snowflake, and AWS.
 - 📫 How to reach me: demetrius.griffin.work@gmail.com.
 - ⚡ Fun fact: I live in a border state and never been to Canada.
   
