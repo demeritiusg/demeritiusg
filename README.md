@@ -26,6 +26,6 @@ Here are some ideas to get you started: -->
 - [Databricks Detla Lake ETL](https://github.com/demeritiusg/databicks_project): ETL project using Databricks and Azure using lakehouse concepts 
 
 ## Feel free to explore my repositories and connect with me for freelance work!
-- [AWS Examples](https://github.com/demeritiusg/AWS-Examples)
-- [Python Examples](https://github.com/demeritiusg/Python-Examples)
-- [SQL Examples](https://github.com/demeritiusg/SQL-Examples)
+- [AWS Examples](https://github.com/demeritiusg/AWS-Examples): Lambda, Glue
+- [Python Examples](https://github.com/demeritiusg/Python-Examples): Airflow, Spark, OOP, Small Applications
+- [SQL Examples](https://github.com/demeritiusg/SQL-Examples):  DBT, Postgres, Other Examples
