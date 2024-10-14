@@ -17,12 +17,16 @@ Here are some ideas to get you started: -->
 - Programming Languages: Python
 - Frameworks: Flask
 - Tools: GitHub, GitLab, Docker, Terraform, Apache Airflow, Jira, Postman, Slack, Sublime Text, Visual Studio Code
+
 <!--
-## 📂 Notable Projects:-->
-Check out some of my key projects:
+📂 Notable Projects:-->
+## Check out some of my key projects:
 - [AWS Data Pipeline](https://github.com/demeritiusg/terraform-data-pipeline): AWS Data Pipeline using Terraform and Spark
 - [Flask App](https://github.com/demeritiusg/Web_App_Examples): Flask web app interacting with Quickbooks API
 <!-- [Project Name 3](Link to Repo): Brief description of the project and the technologies used. -->
 
-
-Feel free to explore my repositories and connect with me for freelance work!
+## Feel free to explore my repositories and connect with me for freelance work!
+- [AWS Examples]
+- [Python Examples]
+- [SQL Examples]
+- 
