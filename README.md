@@ -26,7 +26,6 @@ Here are some ideas to get you started: -->
 <!-- [Project Name 3](Link to Repo): Brief description of the project and the technologies used. -->
 
 ## Feel free to explore my repositories and connect with me for freelance work!
-- [AWS Examples]
-- [Python Examples]
-- [SQL Examples]
-- 
+- [AWS Examples](https://github.com/demeritiusg/AWS-Examples)
+- [Python Examples](https://github.com/demeritiusg/Python-Examples)
+- [SQL Examples](https://github.com/demeritiusg/SQL-Examples)
