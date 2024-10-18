@@ -23,7 +23,8 @@ Here are some ideas to get you started: -->
 ## Check out some of my key projects:
 - [AWS Data Pipeline](https://github.com/demeritiusg/terraform-data-pipeline): AWS Data Pipeline using Terraform and Spark
 - [Flask App](https://github.com/demeritiusg/Web_App_Examples): Flask web app interacting with Quickbooks API
-- [Databricks Detla Lake ETL](https://github.com/demeritiusg/databicks_project): ETL project using Databricks and Azure using lakehouse concepts 
+- [Databricks Detla Lake ETL](https://github.com/demeritiusg/databicks_project): ETL project using Databricks and Azure using lakehouse concepts
+- [Snowflake ETL project](https://github.com/demeritiusg/iceberg_snowflake_airflow_aws): ETL project using Apache Airflow, Apache Iceberb, and Snowflake
 
 ## Feel free to explore my repositories and connect with me for freelance work!
 - [AWS Examples](https://github.com/demeritiusg/AWS-Examples): Lambda, Glue
